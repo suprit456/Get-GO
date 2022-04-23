@@ -1,2 +1,2 @@
 # Get-GO
-Self practice of Golang
+Self practice of Golang.
